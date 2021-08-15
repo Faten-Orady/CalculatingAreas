@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">firstproject</string>
+    <string name="group_tv_pages" >450 pages</string>
+    <string name="group_tv_finish" >450 finish</string>
+    <string name="group_et_search_hint" >Enter Group ID</string>
+    <string name="group_tv_search_hint1" >Search for a group</string>
+    <string name="group_tv_search_hint2" >Enter a group ID to search for askID from group admin</string>
+
 </resources>

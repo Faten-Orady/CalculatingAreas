@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ولو آية</string>
+    <string name="group_tv_pages" >450 صفحة</string>
+    <string name="group_tv_finish"  >1 خاتمة </string>
+    <string name="group_et_search_hint" >أدخل رقم المجموعة</string>
+    <string name="group_tv_search_hint1">ابحث عن مجموعة</string>
+    <string name="group_tv_search_hint2" >أدخل رقم المجموعة لتبحث عن أدمن المجموعة</string>
+
+</resources>
