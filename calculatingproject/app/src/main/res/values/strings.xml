@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">calculating project</string>
+    <string name="areas_rectangle_width_hint">width</string>
+    <string name="areas_rectangle_height_hint">height</string>
+    <string name="areas_circle_radius_hint">radius</string>
+    <string name="areas_triangle_base_hint">base</string>
+    <string name="areas_triangle_height_hint">height</string>
+    <string name="calculating">Calculate</string>
+    <string-array name="shapes">
+        <item>select shape..</item>
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
